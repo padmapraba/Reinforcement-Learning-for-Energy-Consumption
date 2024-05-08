@@ -2,6 +2,5 @@ setuptools==65.5.0
 CityLearn==1.8.0
 matplotlib==3.5.3
 seaborn==0.12.2
-beautifulsoup4==4.11.2
 stable-baselines3
 shimmy>=0.2.1
